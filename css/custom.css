@@ -109,6 +109,9 @@ a.fa.fa-angle-down:hover{
     .banner , .banner span, .contactData{
         font-size: 100%;
     }
+	.contactSection{
+	padding : 5% 2%;
+	}
 }
 
 
